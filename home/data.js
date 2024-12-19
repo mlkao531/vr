@@ -39,8 +39,8 @@ var APP_DATA = {
   "name": "home",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "autorotateEnabled": true,
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
